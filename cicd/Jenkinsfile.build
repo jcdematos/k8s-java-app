@@ -1,0 +1,6 @@
+@Library('pipelines') _
+
+import build.Build
+
+new Build().docker()
+
