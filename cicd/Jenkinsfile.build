@@ -2,5 +2,5 @@
 
 import build.Build
 
-new Build().docker()
+new Build().start()
 
